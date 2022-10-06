@@ -1,0 +1,17 @@
+{
+  "name": "multithreads01",
+  "version": "1.0.0",
+  "description": "Приручаем многопоточность в Node.js (часть 1: базовые концепты)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "worker_threads"
+  ],
+  "author": "Alexandr Bobkov",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
